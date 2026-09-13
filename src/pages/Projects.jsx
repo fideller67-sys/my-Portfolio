@@ -8,7 +8,7 @@ const projects = [
     id: 1,
     title: 'Lattice',
     description: 'A modern performance management platform clone focusing on employee growth, reviews, and continuous feedback.',
-    tags: ['React', 'Node.js', 'Tailwind CSS', 'PostgreSQL'],
+    tags: ['React', 'Node.js', 'Tailwind CSS', 'MongoDB', 'Express.js'],
     image: 'https://s0.wp.com/mshots/v1/https://lattice-workspace.vercel.app?w=800',
     liveUrl: 'https://lattice-workspace.vercel.app/',
     githubUrl: 'https://github.com/fideller67-sys/lattice-workspace'
@@ -17,7 +17,7 @@ const projects = [
     id: 2,
     title: 'WhatsApp Business E-Commerce Platform',
     description: 'A full-stack e-commerce solution with modern UI, secure payments, and a real-time dashboard.',
-    tags: ['React', 'Socket.io', 'Express', 'MongoDB'],
+    tags: ['React'],
     image: 'https://s0.wp.com/mshots/v1/https://whatsapp-business-rho.vercel.app?w=800',
     liveUrl: 'https://whatsapp-business-rho.vercel.app/',
     githubUrl: 'https://github.com/fideller67-sys/business-storefront'
