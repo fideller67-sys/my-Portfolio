@@ -17,7 +17,7 @@ const projects = [
     id: 2,
     title: 'WhatsApp Business E-Commerce Platform',
     description: 'A full-stack e-commerce solution with modern UI, secure payments, and a real-time dashboard.',
-    tags: ['React'],
+    tags: ['Basic Frontend(React)'],
     image: 'https://s0.wp.com/mshots/v1/https://whatsapp-business-rho.vercel.app?w=800',
     liveUrl: 'https://whatsapp-business-rho.vercel.app/',
     githubUrl: 'https://github.com/fideller67-sys/business-storefront'
